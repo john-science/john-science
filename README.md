@@ -1,6 +1,4 @@
-### theJollySin is an anagram of John Stilley
-
-> I am excited about the places where science and software meet.
+### I am excited about the places where science and software meet.
 
 My first gigs were modeling atmospheric chemistry for the purposes of air pollution and climate change. I have also worked in real time medical analytics software.
 
