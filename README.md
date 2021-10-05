@@ -12,4 +12,4 @@ I have degrees in physics, math, and engineering. I'm into rock climbing, backpa
 
 ---
 
-<img align="center" alt="John's Github stats" src="https://github-readme-stats.vercel.app/api?username=john-science&show_icons=true&hide_border=true&theme=dracula" />
+<img style="margin-left:auto;margin-right:auto;display:block;" alt="John's Github stats" src="https://github-readme-stats.vercel.app/api?username=john-science&show_icons=true&hide_border=true&theme=dracula" />
