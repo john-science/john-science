@@ -9,7 +9,3 @@ I have degrees in physics, math, and engineering. I'm into rock climbing, backpa
 <!-- If you want me to do an interview with your company, donate to a charity that plants trees. (You can even write that expense off on your taxes.) -->
 
 > Eternal Student.
-
----
-
-<img style="margin-left:auto;margin-right:auto;display:block;" alt="John's Github stats" src="https://github-readme-stats.vercel.app/api?username=john-science&show_icons=true&hide_border=true&theme=dracula" />
